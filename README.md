@@ -1,7 +1,7 @@
 MarsMarine
-UE4 Game with Blueprints.
+UE5 Game with Blueprints.
 
-This is a game I made following the Udemy course Unreal Engine Blueprint Game Developer.
+  This is a game I made following the Udemy course [Unreal Engine Blueprint Game Developer.](https://www.udemy.com/course/unrealblueprint/)
 
 Requirements
 Unreal Engine 5.5.4
